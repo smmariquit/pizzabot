@@ -1,6 +1,6 @@
 # Roadmap
 
-**Status:** scaffold — see README for setup.
+**Status:** scaffold: see README for setup.
 
 ## Planned
 
@@ -8,7 +8,7 @@
 - [ ] Maintainer-only announce command
 - [ ] Deploy to Railway/Fly/Heroku with uptime checks
 - [ ] Event reminders synced with joinpizza.fun
-- [ ] `/events` — upcoming meetups from site data
+- [ ] `/events`: upcoming meetups from site data
 
 ## Done
 
