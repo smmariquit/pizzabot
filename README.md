@@ -27,6 +27,13 @@ Discord bot for Pizza & Friends (joinpizza.fun)
 
 Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md).
 
+## Legal
+
+- [Privacy Policy](docs/PRIVACY.md)
+- [Terms of Service](docs/TERMS.md)
+- Pizza & Friends site: [joinpizza.fun/privacy](https://joinpizza.fun/privacy)
+- UPLB Tools org policy (when live): [uplbtools.me/privacy](https://uplbtools.me/privacy)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
